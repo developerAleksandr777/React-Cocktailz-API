@@ -1,0 +1,17 @@
+#header {
+    padding: 20px;
+    background-color: darkred;
+    margin-bottom: 50px;
+}
+
+.header__wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: whitesmoke;
+}
+
+.nav ul {
+    display: flex;
+    column-gap: 20px;
+}

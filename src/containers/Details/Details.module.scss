@@ -1,0 +1,18 @@
+.details {
+  padding: 100px 0;
+  // background-image: url("../../assets/images/details__bgc.jpg");
+  // background-repeat: no-repeat;
+  // background-size: cover;
+  &__box {
+    border: 5px solid black;
+  }
+  &__meas {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: burlywood;
+  }
+  &__box img {
+    width: 100%;
+  }
+}
